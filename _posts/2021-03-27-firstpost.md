@@ -10,7 +10,7 @@ pin: true
 ## About this blog
 Here I will post notes about coding, machine learning, and other stuff that might be useful in a dayly work routine or research.
 
-For example, `ASE` is an amazing python package to work with atom structures. To create the narrowest armchair graphene nanoribbon just type:
+For example, `ASE` is an amazing python package to work with atom structures. To create the narrowest armchair graphene nanoribbon type:
 
 ```python
 vacuum = 9.0
