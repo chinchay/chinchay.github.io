@@ -15,9 +15,9 @@ timezone: America/Toronto
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Carlos Leon                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Atoms and machine learning   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -31,16 +31,16 @@ github:
   username: chinchay            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  #username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Chinchay
+  #email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,8 +80,8 @@ theme_mode:   # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn: ''
 
-# the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+# the avatar on sidebar, support local or CORS resources # I added my photo from Researchget:
+avatar: https://i1.rgstatic.net/ii/profile.image/814090779901952-1571105775453_Q128/Carlos-Leon-Chinchay.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
